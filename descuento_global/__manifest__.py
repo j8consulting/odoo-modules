@@ -1,10 +1,11 @@
 {
-    'name': 'Global Discount By J8C',
+    'name': 'Global Discount',
     'version': '18.06.2021',
-    'summary': """Sales Global Discount""",
+    'summary': """Global Discount""",
     'description': 'Sales Global Discount',
     "category": "Sale",
     "author": "J8C",
+    'website': 'https://juarezsoft.com.mx/',
     'depends': ['sale'],
     'data': [
         'views/sale_views.xml',
