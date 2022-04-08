@@ -12,6 +12,8 @@
     ],
     'license': 'AGPL-3',
     'demo': [],
+    'price': 4.99,
+    'currency': 'USD',
     "images": ['static/description/i-1.png'],
     'installable': True,
     'auto_install': False,
