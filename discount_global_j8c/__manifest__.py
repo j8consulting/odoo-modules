@@ -5,6 +5,7 @@
     'description': 'Sales Global Discount',
     "category": "Sale",
     "author": "J8C",
+    'website': 'https://odoo.j8c.com.mx/',
     'depends': ['sale'],
     'data': [
         'views/sale_views.xml',

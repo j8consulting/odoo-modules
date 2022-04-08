@@ -5,7 +5,7 @@
     'description': 'Sale and Purchase Total Amount to Text By J8C by J8C',
     "category": "Sale",
     "author": "J8C",
-    'website': 'https://juarezsoft.com.mx/',
+    'website': 'https://odoo.j8c.com.mx/',
     'depends': ['sale', 'purchase'],
     'data': [
         'views/sale_views.xml',

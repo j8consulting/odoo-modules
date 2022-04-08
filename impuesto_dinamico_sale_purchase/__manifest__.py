@@ -5,7 +5,7 @@
     'description': 'Default Taxes by J8C',
     "category": "Sale",
     "author": "J8C",
-    'website': 'https://juarezsoft.com.mx/',
+    'website': 'https://odoo.j8c.com.mx/',
     'depends': ['sale', 'base'],
     'data': [
         'views/contacto_impuesto_view.xml',
